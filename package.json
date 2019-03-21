@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mqtt": "^2.18.8",
+    "shelljs": "^0.8.3"
+  }
+}
